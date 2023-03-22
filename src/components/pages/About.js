@@ -4,7 +4,7 @@ function Contact(){
         return(
             <div>
                 <h2>
-                    ABOUT PAGE HEHE
+                    ABOUT PAGE HEHE :P
                 </h2>
             </div>
         )
